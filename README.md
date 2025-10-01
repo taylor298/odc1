@@ -12,7 +12,7 @@ This is a web app developed as a final project for SheCodes React using React.js
 - React.js
 - HTML
 - CSS
-- JavaScript
+- JavaScripts
 - VS Code
 - SheCodes Weather API
 
